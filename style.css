@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: limegreen;
+}
+p{
+    font-size: 2rem;
+    color: limegreen;
+    font-family: cursive;
+}
+
+img{
+    width: 60%;
+}
+.roll{
+    padding-left: 660px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#btn{
+background-color: darkcyan;
+height: 35px;
+width: 200px;
+font-family: sans-serif;
+}
+footer{
+    font-family: cursive;
+    color: maroon;
+    text-align: center;
+    font-style: italic;
+}
